@@ -64,7 +64,7 @@ Meu interesse principal está na construção de soluções web completas, do fr
 ![Cloudflare](https://kitsune-galeria.vercel.app/api/svg/badges/skills/badge-cloudflare.svg)
 ![Fly.io](https://kitsune-galeria.vercel.app/api/svg/badges/skills/badge-fly.svg)
 ![Linux](https://kitsune-galeria.vercel.app/api/svg/badges/skills/badge-linux.svg)
-
+![shell](https://kitsune-galeria.vercel.app/api/svg/badges/langs/badge-shell.svg)
 </div>
 
 #
