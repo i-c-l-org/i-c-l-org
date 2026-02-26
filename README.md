@@ -102,10 +102,10 @@ Meu interesse principal está na construção de soluções web completas, do fr
 <div align="center">
 
 <a href="https://kitsune-galeria.vercel.app">
-  <img src="https://kitsune-galeria.vercel.app/api/github-stats/i-c-l-5-5-5?theme=ocean" width="400" alt="Estatísticas do GitHub">
+  <img src="https://kitsune-galeria.vercel.app/api/github-stats/i-c-l-org?theme=neon" width="400" alt="Estatísticas do GitHub">
 </a>
 <a href="https://kitsune-galeria.vercel.app">
-  <img src="https://kitsune-galeria.vercel.app/api/github-langs/i-c-l-5-5-5?theme=ocean" width="400" alt="Linguagens mais utilizadas">
+  <img src="https://kitsune-galeria.vercel.app/api/github-langs/i-c-l-org?theme=neon" width="400" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
