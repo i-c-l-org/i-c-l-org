@@ -126,9 +126,7 @@ Aberto a trocar ideias, colaborações e feedbacks.
 
 <div align="center">
 
-<a href="https://kitsune-galeria.vercel.app/">
-<img src="https://kitsune-galeria.vercel.app/api/visitors/i-c-l-org/badge.svg?label=visitantes">
-</a>
+![Visitantes](https://kitsune-galeria.vercel.app/api/visitors/i-c-l-org/badge.svg?label=visitantes)
 
 </div>
 
